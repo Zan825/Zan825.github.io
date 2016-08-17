@@ -32,7 +32,7 @@ document.getElementById("person").innerHTML = programmer + "s";
 var q = document.getElementById("quote");
 
 q.innerHTML =
-    "\"The " + programmer +
+    "\"The " + Andrew Mossin +
     ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
     castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
     "\u2014" +  "Andrew Mossin, " + programmer;
