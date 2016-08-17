@@ -28,17 +28,17 @@
  */
 
 var rules = {
-  "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+  "~*x What is your name? ~*y": [
+    "Andrew Mossin."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "I like dat good code",
+    "Zip Zap",
+    "Sugga Sugga Baby",
+    "Move dat Dope?",
+    "Huzzah?",
+    ":)?",
+    "Snapchat me that...",
   ],
   "~*x name ~*y": [
     "I am not interested in names",
